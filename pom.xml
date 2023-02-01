@@ -4,4 +4,16 @@
   <artifactId>myProject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>project1</name>
+  <dependencies>
+  		<dependency>
+		    <groupId>org.seleniumhq.selenium</groupId>
+		    <artifactId>selenium-java</artifactId>
+		    <version>3.14.0</version>
+		</dependency>
+		<dependency>
+		    <groupId>io.github.bonigarcia</groupId>
+		    <artifactId>webdrivermanager</artifactId>
+		    <version>5.0.3</version>
+		</dependency>
+	</dependencies>
 </project>
